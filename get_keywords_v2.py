@@ -6,6 +6,8 @@ from underthesea import word_tokenize, pos_tag
 import re
 import yake
 from rapidfuzz import fuzz
+import os
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 vietnamese_stopwords = set(get_stop_words("vietnamese"))
 
@@ -66,8 +68,10 @@ def semantic_deduplicate(keywords, threshold=80):
     # raw_keywords = kw_extractor.extract_keywords(content)
     # keywords = [(kw, score) for kw, score in raw_keywords]
 
-def extract_keywords(content: str, n: int = 10, ngram=(1,3)):
-    cleaned_content = remove_stopwords(content)
+def extract_keywords(article, n: int = 20, ngram=(2,4)):
+    # cleaned_content = remove_stopwords(content)
+    content = article.get("content") or article.get("headline", "")
+    cleaned_content = ''
 
     all_keywords = []
 
@@ -78,8 +82,12 @@ def extract_keywords(content: str, n: int = 10, ngram=(1,3)):
             top=n*5,
             features=None
         )
+
         raw_keywords = kw_extractor.extract_keywords(content)
-        all_keywords.extend([(kw, score) for kw, score in raw_keywords])
+        for kw, score in raw_keywords:
+            word_count = len(kw.split())
+            if ngram[0] <= word_count <= ngram[1]:
+                all_keywords.append((kw, score))
 
 
     keywords = filter_noun_phrases(all_keywords)
@@ -88,24 +96,42 @@ def extract_keywords(content: str, n: int = 10, ngram=(1,3)):
 
     keywords = sorted(keywords, key=lambda x: x[1])
 
-    return keywords[:n], cleaned_content
+    article["keywords"] = keywords[:n]
+    article["cleaned_content"] = cleaned_content
+
+    return article
+
+max_workers = min(4, os.cpu_count())
 
 articles_with_keywords = []
-for idx, article in enumerate(articles, start=1):
-    try:
-        content = article.get("content") or article.get("headline", "")
-        kws, cleaned = extract_keywords(content, n=20)
-        article["keywords"] = kws
-        article["cleaned_content"] = cleaned
-    except Exception as e:
-        article["keywords"] = []
-        article["cleaned_content"] = ""
-        print(f"Lỗi khi xử lý article {article.get('url')}: {e}")
 
-    articles_with_keywords.append(article)
-    print(f"[{idx}] ✅ Xử lý thành công: {article.get('url')}")
+with ProcessPoolExecutor(max_workers=max_workers) as executor:
+    future_to_idx = {executor.submit(extract_keywords, art): i for i, art in enumerate(articles, start=1)}
+    for future in as_completed(future_to_idx):
+        idx = future_to_idx[future]
+        try:
+            result = future.result()
+            articles_with_keywords.append(result)
+            print(f"[{idx}] ✅ Xử lý thành công: {result.get('url')}")
+        except Exception as e:
+            print(f"[{idx}] ❌ Lỗi: {e}")
 
-with open("articles_with_keywords_v2.json", "w", encoding="utf-8") as f:
-    json.dump(articles_with_keywords, f, ensure_ascii=False, indent=2)
+    with open("articles_with_keywords_v2.json", "w", encoding="utf-8") as f:
+        json.dump(articles_with_keywords, f, ensure_ascii=False, indent=2)
 
-print("✅ Đã tạo file articles_with_keywords.json")
+# for idx, article in enumerate(articles, start=1):
+#     try:
+#         content = article.get("content") or article.get("headline", "")
+#         kws, cleaned = extract_keywords(content, n=30)
+#         article["keywords"] = kws
+#         article["cleaned_content"] = cleaned
+#     except Exception as e:
+#         article["keywords"] = []
+#         article["cleaned_content"] = ""
+#         print(f"Lỗi khi xử lý article {article.get('url')}: {e}")
+
+
+# with open("articles_with_keywords_v2.json", "w", encoding="utf-8") as f:
+#     json.dump(articles_with_keywords, f, ensure_ascii=False, indent=2)
+
+# print("✅ Đã tạo file articles_with_keywords.json")

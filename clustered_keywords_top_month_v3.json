@@ -1,0 +1,3593 @@
+{
+  "2024-02": [
+    {
+      "cluster_id": 1,
+      "keywords": [
+        "như chạy nước",
+        "mất nước"
+      ],
+      "representative": "mất nước",
+      "score": 0.20816886198661907,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 5,
+      "keywords": [
+        "dưới trời"
+      ],
+      "representative": "dưới trời",
+      "score": 0.2065465473118092,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 7,
+      "keywords": [
+        "một loại"
+      ],
+      "representative": "một loại",
+      "score": 0.1997316752064835,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "uống thể thao",
+        "thể giúp"
+      ],
+      "representative": "thể giúp",
+      "score": 0.17326900084088748,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 4,
+      "keywords": [
+        "giúp bạn"
+      ],
+      "representative": "giúp bạn",
+      "score": 0.1710161139852728,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 8,
+      "keywords": [
+        "Việt quất Quả việt",
+        "việt quất trước khi"
+      ],
+      "representative": "việt quất trước khi",
+      "score": 0.14494246611729714,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 9,
+      "keywords": [
+        "thực phẩm"
+      ],
+      "representative": "thực phẩm",
+      "score": 0.12092088447358834,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "Nước dừa"
+      ],
+      "representative": "Nước dừa",
+      "score": 0.09169797161577208,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "người chạy",
+        "trước khi chạy"
+      ],
+      "representative": "trước khi chạy",
+      "score": 0.08950134678042944,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 6,
+      "keywords": [
+        "tiềm tàng những rủi",
+        "những rủi ro nguy"
+      ],
+      "representative": "những rủi ro nguy",
+      "score": 0.08129998236917853,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "gắt luôn tiềm tàng"
+      ],
+      "representative": "gắt luôn tiềm tàng",
+      "score": 0.014219450813993827,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 2,
+      "keywords": [
+        "nắng gay gắt luôn",
+        "hiểm như sốc nhiệt",
+        "say nắng"
+      ],
+      "representative": "nắng gay gắt luôn",
+      "score": 0.009546575965483216,
+      "keyword_count": 3
+    }
+  ],
+  "2024-05": [
+    {
+      "cluster_id": 6,
+      "keywords": [
+        "chiến thắng",
+        "người hùng"
+      ],
+      "representative": "người hùng",
+      "score": 0.2476747085531942,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 7,
+      "keywords": [
+        "dụng sản phẩm giày",
+        "thắt chặt dây giày"
+      ],
+      "representative": "thắt chặt dây giày",
+      "score": 0.23585436651735558,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 5,
+      "keywords": [
+        "mỗi bước chạy",
+        "đôi chân chinh phục"
+      ],
+      "representative": "đôi chân chinh phục",
+      "score": 0.23585436651735558,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 19,
+      "keywords": [
+        "Khi bạn"
+      ],
+      "representative": "Khi bạn",
+      "score": 0.2020442352310024,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 25,
+      "keywords": [
+        "thế giới bao"
+      ],
+      "representative": "thế giới bao",
+      "score": 0.19862660726026463,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 39,
+      "keywords": [
+        "của đường chạy"
+      ],
+      "representative": "của đường chạy",
+      "score": 0.18871340904106543,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 33,
+      "keywords": [
+        "con đường phía trước",
+        "tiến về phía trước"
+      ],
+      "representative": "tiến về phía trước",
+      "score": 0.18696709760801278,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "bạn không chỉ chạm"
+      ],
+      "representative": "bạn không chỉ chạm",
+      "score": 0.17508964205381214,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "một trải nghiệm",
+        "một câu chuyện"
+      ],
+      "representative": "một câu chuyện",
+      "score": 0.14588264137913134,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "VDV Hoàng Hơn cùng"
+      ],
+      "representative": "VDV Hoàng Hơn cùng",
+      "score": 0.14332078473506576,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 17,
+      "keywords": [
+        "chuyến chạy không chỉ"
+      ],
+      "representative": "chuyến chạy không chỉ",
+      "score": 0.1403261388788197,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 20,
+      "keywords": [
+        "mỗi hơi thở",
+        "thở là một câu"
+      ],
+      "representative": "thở là một câu",
+      "score": 0.09237236775598834,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 35,
+      "keywords": [
+        "Quảng trường Lâm Viên"
+      ],
+      "representative": "Quảng trường Lâm Viên",
+      "score": 0.06366705745729477,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 30,
+      "keywords": [
+        "GOYA Việt Nam điểm",
+        "GOYA Việt Nam vào",
+        "Minigame của GOYA",
+        "GOYA dành tặng ngay",
+        "phía trước Với GOYA",
+        "đôi giày GOYA tiến"
+      ],
+      "representative": "phía trước Với GOYA",
+      "score": 0.06213076648440631,
+      "keyword_count": 6
+    },
+    {
+      "cluster_id": 16,
+      "keywords": [
+        "UBND tỉnh Quảng nam",
+        "Quảng Nam với thông"
+      ],
+      "representative": "Quảng Nam với thông",
+      "score": 0.059312897530124066,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "thành phố Nha Trang",
+        "với Unique Nha Trang",
+        "lịch Biển Nha Trang"
+      ],
+      "representative": "với Unique Nha Trang",
+      "score": 0.05242155516407715,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "Lat Music Night Run",
+        "Music Makes You Move"
+      ],
+      "representative": "Music Makes You Move",
+      "score": 0.04041309087385438,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "trò Nhà Tài Trợ"
+      ],
+      "representative": "trò Nhà Tài Trợ",
+      "score": 0.037251013272137555,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 21,
+      "keywords": [
+        "Tin vui cho các"
+      ],
+      "representative": "Tin vui cho các",
+      "score": 0.035566107501063385,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 23,
+      "keywords": [
+        "Địa điểm"
+      ],
+      "representative": "Địa điểm",
+      "score": 0.03227386284023404,
+      "keyword_count": 1
+    }
+  ],
+  "2024-06": [
+    {
+      "cluster_id": 65,
+      "keywords": [
+        "hình bằng"
+      ],
+      "representative": "hình bằng",
+      "score": 0.17815429552846782,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 33,
+      "keywords": [
+        "thể giảm",
+        "giảm cân hiệu quả",
+        "thể giảm",
+        "giảm cân"
+      ],
+      "representative": "thể giảm",
+      "score": 0.17588141382217526,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 43,
+      "keywords": [
+        "những dấu",
+        "cách khắc"
+      ],
+      "representative": "những dấu",
+      "score": 0.17447593248454318,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 49,
+      "keywords": [
+        "giúp bạn",
+        "giúp bạn"
+      ],
+      "representative": "giúp bạn",
+      "score": 0.171431357157303,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "Những người thoát"
+      ],
+      "representative": "Những người thoát",
+      "score": 0.16834850288417016,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 66,
+      "keywords": [
+        "đĩa đệm"
+      ],
+      "representative": "đĩa đệm",
+      "score": 0.16646881670448313,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 17,
+      "keywords": [
+        "những người mắc bệnh",
+        "mắc bệnh tim nên",
+        "thì người mắc",
+        "hay bệnh"
+      ],
+      "representative": "thì người mắc",
+      "score": 0.16459286129953535,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 75,
+      "keywords": [
+        "trước khi"
+      ],
+      "representative": "trước khi",
+      "score": 0.14834513972079694,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 44,
+      "keywords": [
+        "đôi chân thon gọn",
+        "thon gọn chạy đúng",
+        "vóc dáng đẹp"
+      ],
+      "representative": "vóc dáng đẹp",
+      "score": 0.14323210016815252,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 51,
+      "keywords": [
+        "tuần nên",
+        "tuần mấy lần trong",
+        "lần mỗi tuần"
+      ],
+      "representative": "lần mỗi tuần",
+      "score": 0.13987475244764047,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 73,
+      "keywords": [
+        "khoáng chất"
+      ],
+      "representative": "khoáng chất",
+      "score": 0.139332573326585,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 87,
+      "keywords": [
+        "mấy lần Theo các"
+      ],
+      "representative": "mấy lần Theo các",
+      "score": 0.13556491892467476,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "sức khỏe",
+        "khi chạy Sức khỏe",
+        "sức khỏe",
+        "khỏe thì nên chạy"
+      ],
+      "representative": "sức khỏe",
+      "score": 0.13449012266744376,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 55,
+      "keywords": [
+        "các loại sữa"
+      ],
+      "representative": "các loại sữa",
+      "score": 0.13089092184719447,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "cơn đau",
+        "giảm đau Chạy",
+        "Cách giảm đau chân",
+        "thuốc giảm đau"
+      ],
+      "representative": "Cách giảm đau chân",
+      "score": 0.12460368297175606,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 56,
+      "keywords": [
+        "mắt không lâu"
+      ],
+      "representative": "mắt không lâu",
+      "score": 0.12032865655657883,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 58,
+      "keywords": [
+        "các chất điện"
+      ],
+      "representative": "các chất điện",
+      "score": 0.11971963578271783,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 72,
+      "keywords": [
+        "CÁC TRẬN ĐẤU"
+      ],
+      "representative": "CÁC TRẬN ĐẤU",
+      "score": 0.10781560639739877,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "Truyền thông Nexus"
+      ],
+      "representative": "Truyền thông Nexus",
+      "score": 0.10430958893158014,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 93,
+      "keywords": [
+        "thể thiếu"
+      ],
+      "representative": "thể thiếu",
+      "score": 0.10144732536896357,
+      "keyword_count": 1
+    }
+  ],
+  "2024-07": [
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "con người"
+      ],
+      "representative": "con người",
+      "score": 0.2260059974266892,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 61,
+      "keywords": [
+        "giai đoạn"
+      ],
+      "representative": "giai đoạn",
+      "score": 0.21559243319402685,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 58,
+      "keywords": [
+        "nhiên cần"
+      ],
+      "representative": "nhiên cần",
+      "score": 0.19825798290158095,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 77,
+      "keywords": [
+        "với việc"
+      ],
+      "representative": "với việc",
+      "score": 0.19044527936500197,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 35,
+      "keywords": [
+        "thời gian",
+        "trong thời",
+        "thời gian",
+        "trong thời",
+        "thời gian"
+      ],
+      "representative": "trong thời",
+      "score": 0.1864553766074805,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 50,
+      "keywords": [
+        "lượng lớn",
+        "được lượng"
+      ],
+      "representative": "lượng lớn",
+      "score": 0.1843554608830163,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 39,
+      "keywords": [
+        "calo tốt"
+      ],
+      "representative": "calo tốt",
+      "score": 0.17730989856003762,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 81,
+      "keywords": [
+        "bền cao"
+      ],
+      "representative": "bền cao",
+      "score": 0.16541672853711017,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 92,
+      "keywords": [
+        "thể thực"
+      ],
+      "representative": "thể thực",
+      "score": 0.16317788886269985,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 67,
+      "keywords": [
+        "lớn tuổi nên chú"
+      ],
+      "representative": "lớn tuổi nên chú",
+      "score": 0.16131040030001786,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "mùa hè không thể",
+        "mùa hè nên chạy",
+        "trong mùa"
+      ],
+      "representative": "mùa hè không thể",
+      "score": 0.12892728665428835,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 68,
+      "keywords": [
+        "động giúp đốt cháy"
+      ],
+      "representative": "động giúp đốt cháy",
+      "score": 0.1244234905646013,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 84,
+      "keywords": [
+        "hàng ngày"
+      ],
+      "representative": "hàng ngày",
+      "score": 0.1239677149422149,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 7,
+      "keywords": [
+        "bài tập thể",
+        "những bài tập",
+        "phương pháp tập thể",
+        "trước khi tập luyện",
+        "muốn luyện tập sức",
+        "thi đấu thể thao",
+        "tập thể",
+        "môn thể thao",
+        "phương pháp tập luyện",
+        "buổi sáng tập luyện"
+      ],
+      "representative": "những bài tập",
+      "score": 0.12389122139294512,
+      "keyword_count": 10
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "những tác dụng",
+        "khả năng"
+      ],
+      "representative": "những tác dụng",
+      "score": 0.12358287852760323,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 25,
+      "keywords": [
+        "sức khỏe",
+        "sức khỏe",
+        "sức khỏe",
+        "sức khỏe",
+        "với sức"
+      ],
+      "representative": "sức khỏe",
+      "score": 0.11927543687234957,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 27,
+      "keywords": [
+        "đời với thiết",
+        "Nam đều được thiết"
+      ],
+      "representative": "đời với thiết",
+      "score": 0.11551694296249082,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 72,
+      "keywords": [
+        "của nhiều người"
+      ],
+      "representative": "của nhiều người",
+      "score": 0.11288428606310735,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 87,
+      "keywords": [
+        "Trước khi"
+      ],
+      "representative": "Trước khi",
+      "score": 0.11263764212205403,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 75,
+      "keywords": [
+        "nhiều những công"
+      ],
+      "representative": "nhiều những công",
+      "score": 0.11090806550842548,
+      "keyword_count": 1
+    }
+  ],
+  "2024-08": [
+    {
+      "cluster_id": 8,
+      "keywords": [
+        "khi luyện",
+        "buổi tập chung",
+        "hiệu suất tập luyện",
+        "Quá trình tập luyện",
+        "khi tập",
+        "phương pháp tập luyện",
+        "bài tập"
+      ],
+      "representative": "khi luyện",
+      "score": 0.23181267890013768,
+      "keyword_count": 7
+    },
+    {
+      "cluster_id": 89,
+      "keywords": [
+        "thể gây"
+      ],
+      "representative": "thể gây",
+      "score": 0.1968667358921935,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "chạy khi đói không",
+        "trình chạy khi đói",
+        "việc chạy khi bụng",
+        "nên khi đói hiệu",
+        "khi đói giảm sút",
+        "khi đói bởi rất",
+        "khi nhịn đói",
+        "thể đói"
+      ],
+      "representative": "thể đói",
+      "score": 0.18522319643880103,
+      "keyword_count": 8
+    },
+    {
+      "cluster_id": 62,
+      "keywords": [
+        "chọn thời"
+      ],
+      "representative": "chọn thời",
+      "score": 0.17106928747096778,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 71,
+      "keywords": [
+        "thể chọn"
+      ],
+      "representative": "thể chọn",
+      "score": 0.17016472530763715,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 97,
+      "keywords": [
+        "lượng cortisol"
+      ],
+      "representative": "lượng cortisol",
+      "score": 0.15614106522287388,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 34,
+      "keywords": [
+        "năng lượng nên khi",
+        "thể khi"
+      ],
+      "representative": "thể khi",
+      "score": 0.1530940615713581,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 19,
+      "keywords": [
+        "những nhà vô địch",
+        "tìm ra những nhà"
+      ],
+      "representative": "tìm ra những nhà",
+      "score": 0.13441016784073553,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "Hoàng Thị Ngọc Anh",
+        "Khuất Phương Anh",
+        "Thế Anh Chạy"
+      ],
+      "representative": "Khuất Phương Anh",
+      "score": 0.13288546636366283,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 98,
+      "keywords": [
+        "địch của từng"
+      ],
+      "representative": "địch của từng",
+      "score": 0.12821486256863215,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 46,
+      "keywords": [
+        "trợ trung tâm nuôi",
+        "trợ cho rất"
+      ],
+      "representative": "trợ cho rất",
+      "score": 0.12734310607295268,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "cho cơ thể",
+        "sức khỏe",
+        "tốt với sức khỏe",
+        "nào tốt cho sức",
+        "sức khoẻ",
+        "khích nâng cao sức"
+      ],
+      "representative": "cho cơ thể",
+      "score": 0.12591169359972768,
+      "keyword_count": 6
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "cách hình thành thói",
+        "cách khắc phục"
+      ],
+      "representative": "cách khắc phục",
+      "score": 0.12365470693705397,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 68,
+      "keywords": [
+        "rất nhiều những nguyên"
+      ],
+      "representative": "rất nhiều những nguyên",
+      "score": 0.12328646607495333,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 36,
+      "keywords": [
+        "Combo Giày GOYA Training",
+        "GOYA với mức giá",
+        "GOYA VIỆT NAM Deal",
+        "tại GOYA",
+        "cấp Mua GOYA Sandal",
+        "GOYA Flip chỉ",
+        "giày dép GOYA trong",
+        "kết hợp tác GOYA",
+        "GOYA Việt Nam cùng",
+        "GOYA tài trợ các",
+        "cho HTR GOYA",
+        "GOYA rất hân hạnh",
+        "thuơng hiệu GOYA Việt",
+        "GOYA Việt Nam",
+        "GOYA cùng với HTR",
+        "Thành Công GOYA cùng",
+        "trợ của GOYA",
+        "tiên của GOYA cùng",
+        "GOYA Việt Nam cùng",
+        "GOYA tài trợ các",
+        "GOYA kết nối với",
+        "GOYA Việt Nam cùng",
+        "cho HTR GOYA Việt",
+        "GOYA luôn quan tâm",
+        "GOYA kết hợp",
+        "giày chạy bộ GOYA",
+        "GOYA Rất nhiều thành",
+        "GOYA cùng CEO Đặng",
+        "chạy bộ GOYA cũng",
+        "GOYA được",
+        "GOYA chất",
+        "Cam GOYA Blaze",
+        "tập GOYA TRAIL BLAZE",
+        "tới đây GOYA",
+        "địa hình GOYA Blaze",
+        "đây GOYA chính thức",
+        "nhà GOYA sắp được",
+        "nhà GOYA Nhằm mang",
+        "GOYA BLAZE sẽ được",
+        "nhà GOYA runners",
+        "mắt tại GOYA",
+        "GOYA hứa",
+        "GOYA TRAIL với"
+      ],
+      "representative": "GOYA được",
+      "score": 0.12125381528250424,
+      "keyword_count": 43
+    },
+    {
+      "cluster_id": 2,
+      "keywords": [
+        "CHÍ MINH CITY NIGHT",
+        "CITY NIGHT RUN EXIMBANK"
+      ],
+      "representative": "CITY NIGHT RUN EXIMBANK",
+      "score": 0.12030539986962976,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 95,
+      "keywords": [
+        "mục tiêu chạy"
+      ],
+      "representative": "mục tiêu chạy",
+      "score": 0.11887664569724984,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 85,
+      "keywords": [
+        "lợi ích của",
+        "nhiều những lợi ích",
+        "những lợi ích",
+        "những lợi"
+      ],
+      "representative": "nhiều những lợi ích",
+      "score": 0.11626379811742131,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 35,
+      "keywords": [
+        "giảm cân",
+        "giảm cân",
+        "cân nặng"
+      ],
+      "representative": "giảm cân",
+      "score": 0.11337962320620067,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 73,
+      "keywords": [
+        "Sắp tới ngày"
+      ],
+      "representative": "Sắp tới ngày",
+      "score": 0.11071264118442245,
+      "keyword_count": 1
+    }
+  ],
+  "2024-09": [
+    {
+      "cluster_id": 4,
+      "keywords": [
+        "Ngừa chấn thương Chạy",
+        "khớp nên chạy ngoài",
+        "xương khớp"
+      ],
+      "representative": "xương khớp",
+      "score": 0.22595098931421817,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "khách hàng",
+        "hàng đầu tại Việt",
+        "hàng khi đặt hàng",
+        "Khách hàng"
+      ],
+      "representative": "hàng khi đặt hàng",
+      "score": 0.20418919225656101,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 115,
+      "keywords": [
+        "thể hoàn"
+      ],
+      "representative": "thể hoàn",
+      "score": 0.1975991963616792,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 19,
+      "keywords": [
+        "cách sắp xếp giày",
+        "Chọn giày dép",
+        "bên trong giày",
+        "xếp giày boot Cách",
+        "gót Cách sắp xếp",
+        "giày sneaker hoặc giày",
+        "giày cao gót Cách",
+        "giày boot vào vali",
+        "sneaker Cách xếp dép",
+        "giúp giày",
+        "cách đặt giày",
+        "giặt tất trắng sạch",
+        "đôi tất luôn trắng",
+        "loại tất",
+        "giày chạy",
+        "chai chân",
+        "một đôi giày rộng",
+        "cấp sản phẩm giày",
+        "giày không",
+        "phẩm giày dép chạy",
+        "Cách làm rộng giày",
+        "vừa với đôi chân",
+        "rộng giày Nếu đôi",
+        "chân vào giày Bước",
+        "những cách làm giày",
+        "giày của bạn vừa",
+        "giày giãn",
+        "Nếu giày vẫn",
+        "hợp với giày",
+        "đôi giày dép",
+        "đôi giày dép",
+        "giày dép trị giá",
+        "sản phẩm giày chạy",
+        "phẩm giày cho trẻ",
+        "những sản phẩm giày",
+        "chọn được giày chạy",
+        "giày chạy chất lượng",
+        "dáng chân",
+        "Chọn giày cho người",
+        "chọn giày khi mới",
+        "dáng giày phù hợp",
+        "trước khi chọn giày",
+        "chọn giày running",
+        "lầm chọn giày chạy",
+        "những đôi giày chạy",
+        "chọn được đôi giày",
+        "tăng size giày chạy",
+        "giày Sai lầm chọn",
+        "giày chạy bộ Trước",
+        "tránh khi mua giày",
+        "ngoài của giày chạy",
+        "đôi giày mới",
+        "sản phẩm dép chạy",
+        "chọn những đôi giày",
+        "đôi giày chạy ngày",
+        "chọn được giày chạy",
+        "đôi giày phù hợp",
+        "chọn giày quá",
+        "thương hiệu giày Việt",
+        "sản phẩm giày chạy",
+        "giày Việt có mặt"
+      ],
+      "representative": "sản phẩm giày chạy",
+      "score": 0.19152508255882245,
+      "keyword_count": 61
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "Báo Nông Nghiệp",
+        "sản Theo Báo Điện"
+      ],
+      "representative": "Báo Nông Nghiệp",
+      "score": 0.17848668225179606,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 119,
+      "keywords": [
+        "những giải"
+      ],
+      "representative": "những giải",
+      "score": 0.17268437937471942,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 75,
+      "keywords": [
+        "động với những",
+        "các hoạt động"
+      ],
+      "representative": "động với những",
+      "score": 0.16471222143880881,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 43,
+      "keywords": [
+        "Công trình công cộng",
+        "công tốt đẹp vào"
+      ],
+      "representative": "Công trình công cộng",
+      "score": 0.16222606380484175,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 113,
+      "keywords": [
+        "giúp bà con nhanh"
+      ],
+      "representative": "giúp bà con nhanh",
+      "score": 0.1592908426753012,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "cải thiện cân nặng",
+        "cân nặng an toàn",
+        "Béo phì",
+        "cải thiện vóc dáng",
+        "như giảm cân"
+      ],
+      "representative": "Béo phì",
+      "score": 0.15521151109648332,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 97,
+      "keywords": [
+        "cần chú"
+      ],
+      "representative": "cần chú",
+      "score": 0.15389773138430293,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 35,
+      "keywords": [
+        "tập thể",
+        "đang tập trung nguồn",
+        "lịch tập trong",
+        "môn thể thao"
+      ],
+      "representative": "lịch tập trong",
+      "score": 0.1487567903159021,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 126,
+      "keywords": [
+        "vọng chương trình"
+      ],
+      "representative": "vọng chương trình",
+      "score": 0.14817487925482942,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 20,
+      "keywords": [
+        "với công nghệ",
+        "nghệ đế Stride Max"
+      ],
+      "representative": "với công nghệ",
+      "score": 0.14527347899149728,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "chân cho người chạy",
+        "suất chạy",
+        "khi chạy bộ Chạy",
+        "chân khi chạy Lựa",
+        "trong quá trình chạy",
+        "hợp Trước khi chạy",
+        "bạn chạy với",
+        "chân Chạy",
+        "Trong quá trình",
+        "chạy Half Marathon",
+        "những người mới chạy",
+        "Trước khi chạy",
+        "siêu marathon Nhưng",
+        "những bài tập chạy",
+        "marathon phổ biến",
+        "giải chạy",
+        "Chương trình Bước Chạy",
+        "cùng nhau bước chạy",
+        "gia Chạy",
+        "trong quá trình chạy",
+        "thở khi chạy Chạy",
+        "Với lịch tập chạy",
+        "tập chạy bộ trong",
+        "phút trong lịch chạy",
+        "trình chạy tuần mới",
+        "lần chạy",
+        "ngày chạy",
+        "giải chạy",
+        "Chạy bộ giúp",
+        "những người mới chạy",
+        "người chạy",
+        "Khi chạy ngoài trời",
+        "với việc bạn chạy",
+        "nghiệm chạy bộ trên",
+        "Việc chạy bộ ngoài",
+        "trọng khi chạy",
+        "lượng Việc chạy",
+        "nhiều người chọn chạy",
+        "khi chạy thoải",
+        "Heritage Marathon tài trợ",
+        "những địa điểm chạy",
+        "VĐV Ngày chạy",
+        "khi chạy Những ngày",
+        "quá trình chạy",
+        "VNExpres Marathon Hạ Long",
+        "giải chạy VNExpress Marathon",
+        "giải chạy hấp dẫn",
+        "trong những giải chạy",
+        "cho giải chạy Thông",
+        "Thông tin giải chạy",
+        "trợ giải chạy này",
+        "giải chạy ý nghĩa",
+        "Dép chạy",
+        "các giải chạy mùa",
+        "khi chạy",
+        "những giải chạy marathon",
+        "Green Cần Giờ Marathon",
+        "gian Chạy bộ tại",
+        "khoẻ thì việc chạy",
+        "Những bài tập chạy",
+        "giờ Chạy",
+        "giải chạy Tiếp Sức",
+        "giải chạy ý nghĩa"
+      ],
+      "representative": "với việc bạn chạy",
+      "score": 0.1316479458609,
+      "keyword_count": 63
+    },
+    {
+      "cluster_id": 60,
+      "keywords": [
+        "tài sản",
+        "người Việt Các sản"
+      ],
+      "representative": "tài sản",
+      "score": 0.12918100186858394,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 135,
+      "keywords": [
+        "địa phương Sơn"
+      ],
+      "representative": "địa phương Sơn",
+      "score": 0.12904367061696226,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 53,
+      "keywords": [
+        "miền Bắc Tinh thần",
+        "miền Bắc với tinh",
+        "tinh thần",
+        "tinh thần",
+        "tinh thần đồng đội"
+      ],
+      "representative": "tinh thần",
+      "score": 0.12813453386436163,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 73,
+      "keywords": [
+        "HTR Ekiden đã diễn",
+        "HTR Ekiden là sân",
+        "Ekiden là giải chạy"
+      ],
+      "representative": "Ekiden là giải chạy",
+      "score": 0.12784044714838275,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 44,
+      "keywords": [
+        "việc làm văn phòng",
+        "văn phòng lại rất",
+        "khiến dân văn phòng",
+        "văn phòng thường xuyên"
+      ],
+      "representative": "khiến dân văn phòng",
+      "score": 0.12604656913753962,
+      "keyword_count": 4
+    }
+  ],
+  "2024-10": [
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "phút dưới đây",
+        "phút trong",
+        "phút dành"
+      ],
+      "representative": "phút dành",
+      "score": 0.3880048528708818,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 100,
+      "keywords": [
+        "tuần này"
+      ],
+      "representative": "tuần này",
+      "score": 0.38766386638340977,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 13,
+      "keywords": [
+        "vào ngày",
+        "vào ban"
+      ],
+      "representative": "vào ngày",
+      "score": 0.3722498708067813,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 118,
+      "keywords": [
+        "tích lũy"
+      ],
+      "representative": "tích lũy",
+      "score": 0.3368019081684227,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 66,
+      "keywords": [
+        "bình hơn"
+      ],
+      "representative": "bình hơn",
+      "score": 0.3368019081684227,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 120,
+      "keywords": [
+        "trang phục"
+      ],
+      "representative": "trang phục",
+      "score": 0.2917878823134402,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 80,
+      "keywords": [
+        "các vấn"
+      ],
+      "representative": "các vấn",
+      "score": 0.28027378245314155,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 9,
+      "keywords": [
+        "Chườm lạnh",
+        "trong thời tiết nóng",
+        "trời nóng",
+        "nồng nhiệt từ đông"
+      ],
+      "representative": "trời nóng",
+      "score": 0.27855609805045467,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 38,
+      "keywords": [
+        "sau khi",
+        "trước khi"
+      ],
+      "representative": "sau khi",
+      "score": 0.26179428719490283,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 88,
+      "keywords": [
+        "người dùng hàng ngày"
+      ],
+      "representative": "người dùng hàng ngày",
+      "score": 0.256721432154971,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 57,
+      "keywords": [
+        "phong cách cho",
+        "thăng bằng trên các"
+      ],
+      "representative": "phong cách cho",
+      "score": 0.25220487131246366,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 82,
+      "keywords": [
+        "Trong chương trình kéo"
+      ],
+      "representative": "Trong chương trình kéo",
+      "score": 0.2397857373110805,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 77,
+      "keywords": [
+        "buổi tập",
+        "hoạch tập luyện phù",
+        "bài tập",
+        "các bài tập",
+        "Bài tập này giúp",
+        "Ngoài các bài tập",
+        "bài tập dưới đây",
+        "bài tập nên thực",
+        "buổi tập",
+        "Bài tập này",
+        "những bài tập",
+        "những buổi tập",
+        "các buổi tập được",
+        "buổi tập đều đặn",
+        "Mỗi buổi tập",
+        "cho người mới tập",
+        "các bài tập"
+      ],
+      "representative": "buổi tập",
+      "score": 0.23604667612456043,
+      "keyword_count": 17
+    },
+    {
+      "cluster_id": 36,
+      "keywords": [
+        "những người",
+        "mọi người"
+      ],
+      "representative": "những người",
+      "score": 0.22594349728264926,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 110,
+      "keywords": [
+        "một cách"
+      ],
+      "representative": "một cách",
+      "score": 0.2118326802362185,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 83,
+      "keywords": [
+        "việc khi thời tiết"
+      ],
+      "representative": "việc khi thời tiết",
+      "score": 0.21030777974407108,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 58,
+      "keywords": [
+        "sức bền",
+        "nghiêm trọng đến sức",
+        "sức bền"
+      ],
+      "representative": "sức bền",
+      "score": 0.19992284952764686,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 28,
+      "keywords": [
+        "khi chạy dài Chạy",
+        "trong quá trình chạy",
+        "chạy dài Sau buổi",
+        "buổi chạy dài hiệu",
+        "thuật chạy phù hợp",
+        "lượng trước khi chạy",
+        "khi chạy Sau khi",
+        "sau khi chạy giúp",
+        "buổi chạy",
+        "trước khi chạy",
+        "Trong khi chạy",
+        "khi phải chạy trong",
+        "trong quá trình chạy",
+        "chạy bộ thông thường",
+        "lưng dưới khi chạy",
+        "thuật chạy không đúng",
+        "người chạy",
+        "chân đen khi chạy",
+        "thuật chạy",
+        "việc chạy",
+        "chạy trong thời",
+        "Khi chạy",
+        "suất chạy",
+        "khi chạy đường dài",
+        "của việc chạy trên",
+        "với khi chạy trên",
+        "thể thử chạy trên",
+        "trên cỏ Chạy trên",
+        "cho các giải chạy",
+        "giải chạy địa hình",
+        "người mới tập chạy",
+        "Chạy nhẹ trong thời",
+        "phút chạy nhẹ nhàng",
+        "Chạy Lặp Đồi Chạy",
+        "hành trình chạy",
+        "một giải chạy",
+        "những buổi chạy dài",
+        "suất chạy của mình",
+        "thể chạy liên",
+        "hóa hiệu suất chạy",
+        "buổi chạy nhẹ giúp",
+        "Chạy trail Chạy trail",
+        "khi chạy",
+        "mới tập chạy Điểm",
+        "chạy bộ Việt Nam",
+        "sau khi chạy không",
+        "sau các buổi chạy",
+        "suất chạy",
+        "việc chạy",
+        "chạy bộ được không",
+        "tiếp đất khi chạy",
+        "đất Tập chạy chân",
+        "bàn chân khi chạy",
+        "Với giải chạy Ultra",
+        "phẩm cho giải chạy",
+        "Thông tin giải chạy",
+        "giải chạy thuần trail"
+      ],
+      "representative": "việc chạy",
+      "score": 0.19956994165669312,
+      "keyword_count": 57
+    },
+    {
+      "cluster_id": 75,
+      "keywords": [
+        "các bài",
+        "thực hiện các bài"
+      ],
+      "representative": "các bài",
+      "score": 0.19780913872669534,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "giúp bạn",
+        "giúp bạn",
+        "của bạn",
+        "bạn nên",
+        "bạn nên",
+        "giúp bạn",
+        "nếu bạn",
+        "giúp bạn",
+        "nếu bạn",
+        "giúp bạn",
+        "giúp bạn",
+        "của bạn",
+        "khiến bạn",
+        "giúp bạn",
+        "giúp bạn",
+        "bạn cần",
+        "Nếu bạn",
+        "Điều này giúp bạn",
+        "nếu bạn",
+        "Nếu bạn",
+        "giúp bạn"
+      ],
+      "representative": "giúp bạn",
+      "score": 0.19597998189901172,
+      "keyword_count": 21
+    }
+  ],
+  "2024-11": [
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "mọi nhu",
+        "nhu cầu",
+        "nhu cầu vệ sinh",
+        "ngờ như nhu cầu",
+        "đôi khi nhu cầu",
+        "Nếu nhu cầu quá",
+        "nhu cầu cá nhân",
+        "quyết nhu cầu",
+        "nhu cầu ngày càng",
+        "nhu cầu"
+      ],
+      "representative": "mọi nhu",
+      "score": 0.49594426090296306,
+      "keyword_count": 10
+    },
+    {
+      "cluster_id": 193,
+      "keywords": [
+        "cầu của"
+      ],
+      "representative": "cầu của",
+      "score": 0.49594426090296306,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 180,
+      "keywords": [
+        "hảo cho"
+      ],
+      "representative": "hảo cho",
+      "score": 0.49205914087513725,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 26,
+      "keywords": [
+        "thiết kế hiện",
+        "cách Thiết"
+      ],
+      "representative": "thiết kế hiện",
+      "score": 0.4198669573304269,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 14,
+      "keywords": [
+        "một lần",
+        "một cách"
+      ],
+      "representative": "một lần",
+      "score": 0.30884076163774105,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 60,
+      "keywords": [
+        "chân chưa",
+        "bước nhỏ"
+      ],
+      "representative": "chân chưa",
+      "score": 0.2868193822789788,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "Cho Những Ai Đam",
+        "Đặc Biệt Qua Cảnh"
+      ],
+      "representative": "Cho Những Ai Đam",
+      "score": 0.2685014850273552,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 197,
+      "keywords": [
+        "Sẵn sàng cho ngày"
+      ],
+      "representative": "Sẵn sàng cho ngày",
+      "score": 0.2510949819391775,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 74,
+      "keywords": [
+        "Nguồn tốt",
+        "thể tốt",
+        "thể đạt"
+      ],
+      "representative": "thể tốt",
+      "score": 0.2351396733945406,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 86,
+      "keywords": [
+        "tiên cho đến những"
+      ],
+      "representative": "tiên cho đến những",
+      "score": 0.2294510833160943,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 76,
+      "keywords": [
+        "những động",
+        "những hoạt động tuyệt",
+        "một hoạt động thể",
+        "các hoạt động",
+        "các hoạt",
+        "hoạt động hàng ngày",
+        "hoạt cho mọi hoạt",
+        "hoạt trong",
+        "tham gia các hoạt",
+        "mọi hoạt",
+        "các hoạt động"
+      ],
+      "representative": "những hoạt động tuyệt",
+      "score": 0.2285466817548051,
+      "keyword_count": 11
+    },
+    {
+      "cluster_id": 183,
+      "keywords": [
+        "giải pháp"
+      ],
+      "representative": "giải pháp",
+      "score": 0.225831157585334,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 27,
+      "keywords": [
+        "Một bữa",
+        "trợ tối"
+      ],
+      "representative": "Một bữa",
+      "score": 0.22381407800050074,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 160,
+      "keywords": [
+        "khi chinh"
+      ],
+      "representative": "khi chinh",
+      "score": 0.22074425869254014,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 24,
+      "keywords": [
+        "đôi giày chạy",
+        "đôi chân",
+        "bảo vệ đôi chân",
+        "đôi chân trong",
+        "một đôi giày chạy",
+        "giày đúng cách không",
+        "giày trong",
+        "Làm sạch giày ngay",
+        "Dây giày",
+        "giày của bạn",
+        "làm khô giày đúng",
+        "giày chuyên dụng",
+        "Phơi giày",
+        "quản giày khi không",
+        "Giày trail không",
+        "của giày Phần",
+        "giữ giày không",
+        "giày chạy",
+        "một đôi giày",
+        "một đôi giày trail",
+        "Tại sao giày trail",
+        "dây giày",
+        "tiêu chí chọn giày",
+        "đôi giày phải",
+        "đôi giày đột phá",
+        "giày Goya Training Plus",
+        "giày chạy",
+        "phẩm dép Goya Sofy",
+        "một đôi dép",
+        "hồi đôi chân",
+        "phồng chân khi tập",
+        "giày không",
+        "chân khi tập luyện",
+        "giày hoặc",
+        "Chọn giày",
+        "trong giày",
+        "hữu dép Sofy chỉ",
+        "Giày Chạy Bộ Goya",
+        "thương hiệu giày chạy",
+        "dép phục hồi như",
+        "Giày không phù hợp",
+        "Giày Goya không chỉ",
+        "giày như giày chạy",
+        "Mang giày",
+        "Một đôi giày chạy",
+        "đôi giày chất lượng",
+        "giày Goya",
+        "giày chạy",
+        "đôi chân",
+        "giày chạy phù hợp",
+        "giày chạy phù hợp",
+        "Mang giày",
+        "đôi giày Goya Strides",
+        "cho mình đôi giày",
+        "kiếm một đôi giày",
+        "đôi giày Strides",
+        "giày chạy",
+        "đôi dép vừa thoải",
+        "dép được thiết",
+        "giày Goya Full Carbon",
+        "đôi giày không chỉ",
+        "ngành giày",
+        "một đôi giày chạy",
+        "đôi giày này",
+        "một đôi giày",
+        "giày chạy",
+        "Đôi giày được thiết",
+        "Đôi giày được thiết",
+        "Đôi giày này",
+        "đôi giày thể thao",
+        "giày đột phá đến",
+        "một đôi giày chạy",
+        "đôi chân của bạn",
+        "đôi giày",
+        "đôi giày này",
+        "trải nghiệm đôi giày",
+        "đôi chân",
+        "Đôi giày",
+        "dép Sofy Siêu nhẹ",
+        "giúp đôi chân bạn",
+        "một đôi dép",
+        "đôi giày Goya Strider",
+        "giày Goya Full Carbon",
+        "phiên bản giày chạy",
+        "Giày chạy",
+        "Dây giày",
+        "giày chạy",
+        "giày với các góc",
+        "mẫu giày",
+        "Chọn đôi giày",
+        "Một đôi giày chạy",
+        "phẩm giày Goya Strides",
+        "một đôi giày không",
+        "giày không chỉ thoải",
+        "chân khi tiếp đất",
+        "lực của chân khi",
+        "động khi chân tiếp",
+        "đôi giày Goya Strides",
+        "một đôi giày chạy",
+        "Đôi giày này",
+        "giày này được thiết",
+        "giày của Goya Strides",
+        "một đôi giày chạy",
+        "giày Goya",
+        "mọi runner Giày chạy",
+        "đôi giày này",
+        "chân bạn",
+        "của dòng giày chạy",
+        "Đôi giày này",
+        "giày chạy bộ Goya",
+        "sải chân",
+        "giày trail Giày trail",
+        "Lựa chọn giày",
+        "Giày chạy"
+      ],
+      "representative": "một đôi dép",
+      "score": 0.21605519555875663,
+      "keyword_count": 114
+    },
+    {
+      "cluster_id": 50,
+      "keywords": [
+        "gan bàn chân",
+        "lên bàn",
+        "phồng Lòng bàn chân"
+      ],
+      "representative": "lên bàn",
+      "score": 0.2133358282995976,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 129,
+      "keywords": [
+        "vời cho"
+      ],
+      "representative": "vời cho",
+      "score": 0.21218700547299046,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 79,
+      "keywords": [
+        "kiểm soát nhịp",
+        "nhịp thở",
+        "nhịp tim",
+        "khỏe tim mạch Chạy",
+        "nhịp thở"
+      ],
+      "representative": "nhịp thở",
+      "score": 0.2114730519224074,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 164,
+      "keywords": [
+        "băng dán"
+      ],
+      "representative": "băng dán",
+      "score": 0.2078493538102414,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "chống trượt",
+        "khả năng chống thấm",
+        "khả năng chống thấm",
+        "Chống thấm nước",
+        "năng chống thấm",
+        "chống trơn"
+      ],
+      "representative": "chống trượt",
+      "score": 0.2051023285115951,
+      "keyword_count": 6
+    }
+  ],
+  "2024-12": [
+    {
+      "cluster_id": 5,
+      "keywords": [
+        "trong điều",
+        "trong việc"
+      ],
+      "representative": "trong việc",
+      "score": 0.318933163355511,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "Trong thời tiết nắng",
+        "ánh nắng"
+      ],
+      "representative": "ánh nắng",
+      "score": 0.2980748136886663,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 7,
+      "keywords": [
+        "cung đường"
+      ],
+      "representative": "cung đường",
+      "score": 0.26964225061899977,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 14,
+      "keywords": [
+        "thách lớn"
+      ],
+      "representative": "thách lớn",
+      "score": 0.2515808638643484,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "điều kiện thời tiết",
+        "Thời gian"
+      ],
+      "representative": "Thời gian",
+      "score": 0.23170612058194315,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 8,
+      "keywords": [
+        "thể dẫn"
+      ],
+      "representative": "thể dẫn",
+      "score": 0.22072798095147272,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 17,
+      "keywords": [
+        "dưỡng chất"
+      ],
+      "representative": "dưỡng chất",
+      "score": 0.21719865916277806,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 16,
+      "keywords": [
+        "lối sống"
+      ],
+      "representative": "lối sống",
+      "score": 0.215499991391214,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 25,
+      "keywords": [
+        "chỉnh quá trình trao"
+      ],
+      "representative": "chỉnh quá trình trao",
+      "score": 0.21375991075285622,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 2,
+      "keywords": [
+        "Điều này",
+        "điều này"
+      ],
+      "representative": "điều này",
+      "score": 0.21267992120958643,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "thể gây"
+      ],
+      "representative": "thể gây",
+      "score": 0.2101043769266511,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 12,
+      "keywords": [
+        "của bạn",
+        "giúp bạn"
+      ],
+      "representative": "giúp bạn",
+      "score": 0.20695539708840466,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 6,
+      "keywords": [
+        "Lựa chọn trang phục",
+        "trang phục phù hợp"
+      ],
+      "representative": "trang phục phù hợp",
+      "score": 0.2042046822243202,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "Lựa chọn thời điểm"
+      ],
+      "representative": "Lựa chọn thời điểm",
+      "score": 0.20204767831380438,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 4,
+      "keywords": [
+        "chạy chậm giúp bạn",
+        "bền Khi chạy chậm",
+        "bạn chạy với tốc",
+        "Chạy quá chậm Mặc",
+        "ích của chạy chậm",
+        "bạn thường xuyên chạy",
+        "chạy chậm hiệu quả",
+        "hợp chạy chậm với",
+        "các buổi chạy",
+        "thuật Chạy chậm",
+        "khi chạy trong thời",
+        "buổi chạy"
+      ],
+      "representative": "thuật Chạy chậm",
+      "score": 0.16935182357709996,
+      "keyword_count": 12
+    },
+    {
+      "cluster_id": 15,
+      "keywords": [
+        "giá thấp trong giới"
+      ],
+      "representative": "giá thấp trong giới",
+      "score": 0.15777583829456968,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 9,
+      "keywords": [
+        "khả năng",
+        "biến nhờ khả năng",
+        "khả năng hỗ trợ"
+      ],
+      "representative": "khả năng",
+      "score": 0.14553991822223172,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "nhịp tim"
+      ],
+      "representative": "nhịp tim",
+      "score": 0.13208791237775433,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 21,
+      "keywords": [
+        "các bài tập"
+      ],
+      "representative": "các bài tập",
+      "score": 0.11746396545467754,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 1,
+      "keywords": [
+        "Nhịn ăn gián đoạn",
+        "thời gian không nhịn",
+        "khung giờ nhịn"
+      ],
+      "representative": "Nhịn ăn gián đoạn",
+      "score": 0.11323610218987103,
+      "keyword_count": 3
+    }
+  ],
+  "2025-01": [
+    {
+      "cluster_id": 41,
+      "keywords": [
+        "dân tộc"
+      ],
+      "representative": "dân tộc",
+      "score": 0.2728405509264801,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "sản phẩm",
+        "người Việt sản xuất"
+      ],
+      "representative": "sản phẩm",
+      "score": 0.23685893651996862,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 22,
+      "keywords": [
+        "tăng sức bật thêm"
+      ],
+      "representative": "tăng sức bật thêm",
+      "score": 0.22359032576804488,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 19,
+      "keywords": [
+        "dép tặng CLB",
+        "Giày chạy Goya Neo",
+        "mẫu giày",
+        "thương hiệu giày chạy"
+      ],
+      "representative": "mẫu giày",
+      "score": 0.22197395591031785,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 12,
+      "keywords": [
+        "khi mua sp Goya",
+        "Goya cho biết",
+        "CEO Goya cho",
+        "đại diện Goya"
+      ],
+      "representative": "CEO Goya cho",
+      "score": 0.1861928751528502,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 14,
+      "keywords": [
+        "giá giải thưởng",
+        "xuất bằng giải thưởng",
+        "nhận giải thưởng TOP"
+      ],
+      "representative": "giá giải thưởng",
+      "score": 0.14896915598343194,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 28,
+      "keywords": [
+        "công nghệ"
+      ],
+      "representative": "công nghệ",
+      "score": 0.13049788673146126,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 21,
+      "keywords": [
+        "Việt Nam trên"
+      ],
+      "representative": "Việt Nam trên",
+      "score": 0.12788137127580462,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 16,
+      "keywords": [
+        "những người"
+      ],
+      "representative": "những người",
+      "score": 0.12162914375074357,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 24,
+      "keywords": [
+        "Người tham gia"
+      ],
+      "representative": "Người tham gia",
+      "score": 0.11140775865091081,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 26,
+      "keywords": [
+        "điều kiện thi đấu"
+      ],
+      "representative": "điều kiện thi đấu",
+      "score": 0.1045749417570692,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "GOYA mua qua Facebook",
+        "Goya.vn Kênh Facebook CEO"
+      ],
+      "representative": "GOYA mua qua Facebook",
+      "score": 0.10388759291587897,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 42,
+      "keywords": [
+        "tiết Trống đồng Đông"
+      ],
+      "representative": "tiết Trống đồng Đông",
+      "score": 0.10015716128749909,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "phong trào Mỗi Tỉnh",
+        "hiệu suất"
+      ],
+      "representative": "phong trào Mỗi Tỉnh",
+      "score": 0.0986946528509705,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 15,
+      "keywords": [
+        "công vang dội của"
+      ],
+      "representative": "công vang dội của",
+      "score": 0.09665282291712204,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 47,
+      "keywords": [
+        "cộng đồng các CLB"
+      ],
+      "representative": "cộng đồng các CLB",
+      "score": 0.09181931814991082,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 44,
+      "keywords": [
+        "Trần Phú"
+      ],
+      "representative": "Trần Phú",
+      "score": 0.08844258884701595,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "voucher giảm giá"
+      ],
+      "representative": "voucher giảm giá",
+      "score": 0.08677983094340548,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "Goya Neo Pro Full",
+        "trên Neo Pro không",
+        "Trống đồng trên Neo",
+        "hiệu cho biết Neo"
+      ],
+      "representative": "Trống đồng trên Neo",
+      "score": 0.08550856049279602,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "Thời gian"
+      ],
+      "representative": "Thời gian",
+      "score": 0.07218140190204021,
+      "keyword_count": 1
+    }
+  ],
+  "2025-03": [
+    {
+      "cluster_id": 105,
+      "keywords": [
+        "gian hàng"
+      ],
+      "representative": "gian hàng",
+      "score": 0.2950721273223416,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 189,
+      "keywords": [
+        "thoáng khí"
+      ],
+      "representative": "thoáng khí",
+      "score": 0.27647653462060007,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 110,
+      "keywords": [
+        "sợi TPU"
+      ],
+      "representative": "sợi TPU",
+      "score": 0.2730127666784987,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 170,
+      "keywords": [
+        "thông tin"
+      ],
+      "representative": "thông tin",
+      "score": 0.25609654496269896,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 95,
+      "keywords": [
+        "năng của",
+        "khả năng",
+        "chính là khả năng",
+        "một lượng lớn năng",
+        "khả năng",
+        "vượt trội",
+        "động năng lượng",
+        "khả năng"
+      ],
+      "representative": "năng của",
+      "score": 0.22950699315383533,
+      "keyword_count": 8
+    },
+    {
+      "cluster_id": 172,
+      "keywords": [
+        "Tấm Carbon"
+      ],
+      "representative": "Tấm Carbon",
+      "score": 0.2276000303615375,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 34,
+      "keywords": [
+        "phía sau mắt",
+        "mái tối",
+        "bảo hiệu suất tối"
+      ],
+      "representative": "mái tối",
+      "score": 0.22495512803888212,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "hấp thụ lực tác",
+        "lực tác động",
+        "sức mạnh bùng"
+      ],
+      "representative": "lực tác động",
+      "score": 0.22035285493845053,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 109,
+      "keywords": [
+        "Không Chủ Quan",
+        "Quan Tâm Đến"
+      ],
+      "representative": "Quan Tâm Đến",
+      "score": 0.21693556641095116,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 41,
+      "keywords": [
+        "hoàn trả năng lượng",
+        "khả năng hoàn trả",
+        "dịp hoàn hảo"
+      ],
+      "representative": "khả năng hoàn trả",
+      "score": 0.19318712896308368,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 9,
+      "keywords": [
+        "làm sau",
+        "ráp sau những buổi",
+        "tại chỗ sau"
+      ],
+      "representative": "ráp sau những buổi",
+      "score": 0.177608544770462,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 130,
+      "keywords": [
+        "thống glycolytic"
+      ],
+      "representative": "thống glycolytic",
+      "score": 0.17710677158802798,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 118,
+      "keywords": [
+        "lần đầu tiên",
+        "lần đầu"
+      ],
+      "representative": "lần đầu",
+      "score": 0.17695902721946208,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 168,
+      "keywords": [
+        "điều không nên"
+      ],
+      "representative": "điều không nên",
+      "score": 0.1728851434397708,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 86,
+      "keywords": [
+        "sau khi",
+        "sau một",
+        "ngày sau"
+      ],
+      "representative": "sau một",
+      "score": 0.16881793500156886,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 81,
+      "keywords": [
+        "mùa giải",
+        "của giải"
+      ],
+      "representative": "của giải",
+      "score": 0.16844006336546924,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 60,
+      "keywords": [
+        "hiệu quả",
+        "làm giảm hiệu quả",
+        "hiệu quả luyện",
+        "hiệu quả trên máy",
+        "hiệu quả phục hồi",
+        "quả chọn sai",
+        "hiệu quả"
+      ],
+      "representative": "hiệu quả",
+      "score": 0.16795073916092923,
+      "keyword_count": 7
+    },
+    {
+      "cluster_id": 4,
+      "keywords": [
+        "thể kêu gọi nghỉ",
+        "Không Phù Hợp",
+        "Thời Gian Phù Hợp",
+        "Nghỉ Ngơi Phù Hợp",
+        "Hợp Nghỉ ngơi"
+      ],
+      "representative": "Nghỉ Ngơi Phù Hợp",
+      "score": 0.1672064563529357,
+      "keyword_count": 5
+    },
+    {
+      "cluster_id": 85,
+      "keywords": [
+        "thống nhất đất nước",
+        "Chạy nước",
+        "Nước Trong"
+      ],
+      "representative": "Chạy nước",
+      "score": 0.1658215147815651,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 116,
+      "keywords": [
+        "mục tiêu"
+      ],
+      "representative": "mục tiêu",
+      "score": 0.16410142937138425,
+      "keyword_count": 1
+    }
+  ],
+  "2025-04": [
+    {
+      "cluster_id": 77,
+      "keywords": [
+        "khu vực"
+      ],
+      "representative": "khu vực",
+      "score": 0.18027490499991672,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 36,
+      "keywords": [
+        "sức khỏe tổng",
+        "khám sức khỏe"
+      ],
+      "representative": "khám sức khỏe",
+      "score": 0.1786370253671702,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 91,
+      "keywords": [
+        "các trạm"
+      ],
+      "representative": "các trạm",
+      "score": 0.1741546307207812,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 106,
+      "keywords": [
+        "chiếc medal danh"
+      ],
+      "representative": "chiếc medal danh",
+      "score": 0.16656637333568475,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 20,
+      "keywords": [
+        "trình chinh phục Tây",
+        "hào khi chinh phục"
+      ],
+      "representative": "hào khi chinh phục",
+      "score": 0.16460671090897297,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 73,
+      "keywords": [
+        "Minh Mạng"
+      ],
+      "representative": "Minh Mạng",
+      "score": 0.16435196448901884,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 37,
+      "keywords": [
+        "năm đầy ý nghĩa",
+        "năm thành lập",
+        "nhất năm với"
+      ],
+      "representative": "nhất năm với",
+      "score": 0.1526425007356629,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 107,
+      "keywords": [
+        "Văn Hương đã ghi"
+      ],
+      "representative": "Văn Hương đã ghi",
+      "score": 0.14020899859233876,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 46,
+      "keywords": [
+        "địa linh nhân kiệt",
+        "mảnh đất địa linh",
+        "vùng đất địa",
+        "Địa điểm"
+      ],
+      "representative": "vùng đất địa",
+      "score": 0.1345320138190954,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 11,
+      "keywords": [
+        "cung đường",
+        "Cung đường không chỉ",
+        "đường chạy cho ngày",
+        "công bố cung đường",
+        "Cung Đường",
+        "đường chạy chính thức",
+        "cung đường chạy",
+        "đường Nguyễn Sinh Cung",
+        "Bản đồ đường chạy",
+        "điểm cung đường chạy",
+        "Đường Lê Duẩn"
+      ],
+      "representative": "đường chạy cho ngày",
+      "score": 0.133783612401644,
+      "keyword_count": 11
+    },
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "thời gian xuất phát",
+        "phát tại Không gian",
+        "Trong thời gian"
+      ],
+      "representative": "Trong thời gian",
+      "score": 0.1233653238899285,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 87,
+      "keywords": [
+        "vận động viên xuất",
+        "vận động viên xuất",
+        "cho các vận",
+        "các vận động viên",
+        "dành cho các vận",
+        "vận động viên tài",
+        "hút hàng ngàn vận",
+        "ngàn vận động viên",
+        "các vận động viên",
+        "các vận động viên"
+      ],
+      "representative": "cho các vận",
+      "score": 0.11989222007244106,
+      "keyword_count": 10
+    },
+    {
+      "cluster_id": 92,
+      "keywords": [
+        "phần Dược Aikya"
+      ],
+      "representative": "phần Dược Aikya",
+      "score": 0.11865399718222991,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 61,
+      "keywords": [
+        "dụng cho"
+      ],
+      "representative": "dụng cho",
+      "score": 0.11532427469930194,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 98,
+      "keywords": [
+        "chiếc huy chương",
+        "huy chương không",
+        "trên tấm huy chương"
+      ],
+      "representative": "trên tấm huy chương",
+      "score": 0.10255971638945216,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 108,
+      "keywords": [
+        "tọa lạc bên"
+      ],
+      "representative": "tọa lạc bên",
+      "score": 0.0948163443243376,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 79,
+      "keywords": [
+        "trong buổi họp báo",
+        "diễn ra buổi họp"
+      ],
+      "representative": "diễn ra buổi họp",
+      "score": 0.09455899493499613,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 3,
+      "keywords": [
+        "trở thành nguồn động",
+        "thành tích",
+        "trở thành nguồn"
+      ],
+      "representative": "trở thành nguồn",
+      "score": 0.09274516565468974,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 18,
+      "keywords": [
+        "Thứ Sáu",
+        "Thứ Bảy",
+        "Cuối tuần này"
+      ],
+      "representative": "Cuối tuần này",
+      "score": 0.0913927756291855,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 65,
+      "keywords": [
+        "cây ngô đồng"
+      ],
+      "representative": "cây ngô đồng",
+      "score": 0.08757786509808206,
+      "keyword_count": 1
+    }
+  ],
+  "2025-05": [
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "tượng của",
+        "tượng qua từng giải",
+        "tượng với full marathon"
+      ],
+      "representative": "tượng của",
+      "score": 0.3085659629760658,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 92,
+      "keywords": [
+        "Dép chỉ"
+      ],
+      "representative": "Dép chỉ",
+      "score": 0.2943582303987003,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 85,
+      "keywords": [
+        "của bạn"
+      ],
+      "representative": "của bạn",
+      "score": 0.2931464088864736,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 63,
+      "keywords": [
+        "thế giới"
+      ],
+      "representative": "thế giới",
+      "score": 0.24128389410142226,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 120,
+      "keywords": [
+        "cuộc sống"
+      ],
+      "representative": "cuộc sống",
+      "score": 0.22331258297655887,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 23,
+      "keywords": [
+        "Đãi Pre-Order",
+        "tinh thần kỷ luật"
+      ],
+      "representative": "Đãi Pre-Order",
+      "score": 0.2088012001543665,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 102,
+      "keywords": [
+        "Covid khiến cuộc"
+      ],
+      "representative": "Covid khiến cuộc",
+      "score": 0.19907064467339095,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 15,
+      "keywords": [
+        "với người Việt",
+        "những người"
+      ],
+      "representative": "với người Việt",
+      "score": 0.18607938372445584,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 84,
+      "keywords": [
+        "Không Chỉ Là Tồn"
+      ],
+      "representative": "Không Chỉ Là Tồn",
+      "score": 0.1830862035445361,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 106,
+      "keywords": [
+        "đất Nghệ"
+      ],
+      "representative": "đất Nghệ",
+      "score": 0.1796916992054545,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "Độc Quyền Ngày",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "mang tinh thần Bứt",
+        "thần Bứt Phá Giới",
+        "thần Bứt Phá Giới",
+        "tục bứt phá giới",
+        "thần Bứt Phá Giới",
+        "của tinh thần Bứt",
+        "giành được Bứt Phá",
+        "thần Bứt Phá Giới",
+        "việc bứt phá top",
+        "trần đến cú bứt",
+        "thần Bứt Phá Giới"
+      ],
+      "representative": "Độc Quyền Ngày",
+      "score": 0.17860584421092043,
+      "keyword_count": 19
+    },
+    {
+      "cluster_id": 113,
+      "keywords": [
+        "khách hàng Lời Tri"
+      ],
+      "representative": "khách hàng Lời Tri",
+      "score": 0.17465938723719512,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 105,
+      "keywords": [
+        "giá ưu đãi chỉ"
+      ],
+      "representative": "giá ưu đãi chỉ",
+      "score": 0.17407663535824325,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 67,
+      "keywords": [
+        "sản phẩm"
+      ],
+      "representative": "sản phẩm",
+      "score": 0.16670465491079342,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 39,
+      "keywords": [
+        "từng bước chạy",
+        "biệt Một bước tiến",
+        "bước tiến mới trong",
+        "những bước chạy đầu",
+        "đang từng bước khẳng",
+        "Việt qua từng bước",
+        "bước chân đầu tiên",
+        "những bước chạy đầu",
+        "mỗi bước chạy thành"
+      ],
+      "representative": "từng bước chạy",
+      "score": 0.1588375227022919,
+      "keyword_count": 9
+    },
+    {
+      "cluster_id": 5,
+      "keywords": [
+        "chất lượng",
+        "sưu tập thành tích"
+      ],
+      "representative": "chất lượng",
+      "score": 0.15844666144865055,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 100,
+      "keywords": [
+        "Full Marathon 3:12"
+      ],
+      "representative": "Full Marathon 3:12",
+      "score": 0.15457188710243935,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 46,
+      "keywords": [
+        "Thời gian đầu mọi",
+        "đầu rất giản"
+      ],
+      "representative": "Thời gian đầu mọi",
+      "score": 0.1521069613391,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 40,
+      "keywords": [
+        "ngoặt công nghệ chạy",
+        "mừng anh Lý Tài"
+      ],
+      "representative": "ngoặt công nghệ chạy",
+      "score": 0.15129591964532568,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 79,
+      "keywords": [
+        "mục tiêu"
+      ],
+      "representative": "mục tiêu",
+      "score": 0.14826621659270173,
+      "keyword_count": 1
+    }
+  ],
+  "2025-06": [
+    {
+      "cluster_id": 38,
+      "keywords": [
+        "Thời Gian"
+      ],
+      "representative": "Thời Gian",
+      "score": 0.15585533195802986,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 60,
+      "keywords": [
+        "Strava hoặc Uprace"
+      ],
+      "representative": "Strava hoặc Uprace",
+      "score": 0.152540440095668,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "khách hàng"
+      ],
+      "representative": "khách hàng",
+      "score": 0.14064856716844537,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 37,
+      "keywords": [
+        "kết quả",
+        "Việt Nam cam kết"
+      ],
+      "representative": "kết quả",
+      "score": 0.13745728361165752,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 20,
+      "keywords": [
+        "cộng đồng",
+        "tri ân cộng đồng",
+        "cộng đồng"
+      ],
+      "representative": "cộng đồng",
+      "score": 0.13620164633074344,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 57,
+      "keywords": [
+        "Tuổi không chỉ"
+      ],
+      "representative": "Tuổi không chỉ",
+      "score": 0.12883446380983826,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 54,
+      "keywords": [
+        "Nhân dịp kỷ niệm"
+      ],
+      "representative": "Nhân dịp kỷ niệm",
+      "score": 0.08180860427731965,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 27,
+      "keywords": [
+        "Trong tháng sinh nhật",
+        "sinh nhật lần thứ",
+        "sinh nhật lần thứ",
+        "chúc sinh nhật"
+      ],
+      "representative": "sinh nhật lần thứ",
+      "score": 0.0774641273141441,
+      "keyword_count": 4
+    },
+    {
+      "cluster_id": 47,
+      "keywords": [
+        "hào ghi dấu"
+      ],
+      "representative": "hào ghi dấu",
+      "score": 0.07576429149571286,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 44,
+      "keywords": [
+        "thắng của Victor Kemei"
+      ],
+      "representative": "thắng của Victor Kemei",
+      "score": 0.07557338755070966,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 21,
+      "keywords": [
+        "bài đăng"
+      ],
+      "representative": "bài đăng",
+      "score": 0.07061142960547483,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 36,
+      "keywords": [
+        "tượng của tinh thần",
+        "tinh thần không ngừng"
+      ],
+      "representative": "tượng của tinh thần",
+      "score": 0.06549155874483853,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 15,
+      "keywords": [
+        "Việt Nam tự hào",
+        "tiên của Việt Nam",
+        "chân đến Việt Nam",
+        "nhất Việt Nam",
+        "Quốc gia Việt Nam",
+        "Việt Nam hân hoan",
+        "Cách mạng Việt Nam",
+        "hàng đầu Việt Nam",
+        "Việt Nam tự hào"
+      ],
+      "representative": "chân đến Việt Nam",
+      "score": 0.0653640932038856,
+      "keyword_count": 9
+    },
+    {
+      "cluster_id": 14,
+      "keywords": [
+        "triệu người Việt",
+        "người Việt sản xuất",
+        "của người Việt"
+      ],
+      "representative": "triệu người Việt",
+      "score": 0.06516176447019081,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 32,
+      "keywords": [
+        "Bứt Phá Giới Hạn",
+        "Bứt Phá Giới Hạn",
+        "Giới Hạn đặc biệt",
+        "Giới Hạn tại VnExpress",
+        "Hạn và chào mừng",
+        "Phá Giới Hạn của",
+        "mọi giới hạn",
+        "Phá Mọi Giới Hạn",
+        "Giới Hạn đến mọi"
+      ],
+      "representative": "Giới Hạn đặc biệt",
+      "score": 0.061752578501195844,
+      "keyword_count": 9
+    },
+    {
+      "cluster_id": 58,
+      "keywords": [
+        "hành cùng hàng triệu",
+        "hành suốt hành trình",
+        "hào đồng hành cùng"
+      ],
+      "representative": "hành cùng hàng triệu",
+      "score": 0.060376001569829876,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 29,
+      "keywords": [
+        "lan tỏa tinh thần"
+      ],
+      "representative": "lan tỏa tinh thần",
+      "score": 0.05945211364820634,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 1,
+      "keywords": [
+        "cấu giải thưởng",
+        "Quà Cực Đơn Giản",
+        "quà tặng"
+      ],
+      "representative": "cấu giải thưởng",
+      "score": 0.058386591748021806,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "ĐỐI TƯỢNG"
+      ],
+      "representative": "ĐỐI TƯỢNG",
+      "score": 0.05792469001956149,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 10,
+      "keywords": [
+        "mừng các runner nhận",
+        "runners nhận Quần rồng",
+        "hàng triệu runner trên",
+        "đồng runner đã đồng"
+      ],
+      "representative": "hàng triệu runner trên",
+      "score": 0.05564868942917007,
+      "keyword_count": 4
+    }
+  ],
+  "2025-07": [
+    {
+      "cluster_id": 56,
+      "keywords": [
+        "Việt nghiên"
+      ],
+      "representative": "Việt nghiên",
+      "score": 0.27828101907445907,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 49,
+      "keywords": [
+        "như lời"
+      ],
+      "representative": "như lời",
+      "score": 0.2608746919548217,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 12,
+      "keywords": [
+        "giải thưởng độc quyền",
+        "Những phần thưởng",
+        "huy chương"
+      ],
+      "representative": "huy chương",
+      "score": 0.24204970834504635,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 25,
+      "keywords": [
+        "thiện sản phẩm",
+        "chương trình từ thiện"
+      ],
+      "representative": "thiện sản phẩm",
+      "score": 0.22446443668081634,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 0,
+      "keywords": [
+        "thành biểu tượng kiên",
+        "qua mốc thưởng",
+        "Cột mốc"
+      ],
+      "representative": "Cột mốc",
+      "score": 0.20495391804946106,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 86,
+      "keywords": [
+        "bên sông Hàn"
+      ],
+      "representative": "bên sông Hàn",
+      "score": 0.20237051056417174,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 27,
+      "keywords": [
+        "GOYA hiểu",
+        "Giới Hạn của GOYA",
+        "của GOYA đang bùng",
+        "chiến dịch của GOYA",
+        "NẴNG CÙNG GOYA NEO",
+        "NẴNG CÙNG GOYA SPEED",
+        "Giới Hạn của GOYA",
+        "GOYA bùng nổ hơn",
+        "nhập GOYA Elite Team",
+        "chị Quyền và GOYA",
+        "Phá Gia nhập GOYA",
+        "fanpage GOYA Việt Nam",
+        "Việt của GOYA đang",
+        "GOYA hướng dẫn chi",
+        "GOYA cam kết hoàn",
+        "GOYA chọn làm thật",
+        "GOYA không",
+        "Giới Hạn Cùng GOYA",
+        "GOYA Việt Nam cùng",
+        "được GOYA trao tận",
+        "trình còn được GOYA",
+        "GOYA Việt Nam chính",
+        "GOYA chính thức công",
+        "GOYA Việt Nam tin",
+        "cùng GOYA",
+        "GOYA Việt Nam chào",
+        "GOYA Sandal Plus không",
+        "mắt của GOYA Sandal",
+        "mắt GOYA",
+        "năm của GOYA",
+        "GOYA Việt Nam chào"
+      ],
+      "representative": "GOYA không",
+      "score": 0.19897131490565867,
+      "keyword_count": 31
+    },
+    {
+      "cluster_id": 74,
+      "keywords": [
+        "những người"
+      ],
+      "representative": "những người",
+      "score": 0.19268809471155326,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 89,
+      "keywords": [
+        "BIB qua"
+      ],
+      "representative": "BIB qua",
+      "score": 0.18639659008696735,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 79,
+      "keywords": [
+        "người yêu"
+      ],
+      "representative": "người yêu",
+      "score": 0.18252200903337437,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 51,
+      "keywords": [
+        "công nghệ thôi"
+      ],
+      "representative": "công nghệ thôi",
+      "score": 0.16810993835057297,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 64,
+      "keywords": [
+        "ngày nắng"
+      ],
+      "representative": "ngày nắng",
+      "score": 0.16511006817989368,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 48,
+      "keywords": [
+        "Cảm giác"
+      ],
+      "representative": "Cảm giác",
+      "score": 0.15060056888797127,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "giao hàng trễ"
+      ],
+      "representative": "giao hàng trễ",
+      "score": 0.15047125682609291,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 59,
+      "keywords": [
+        "mỗi ngày"
+      ],
+      "representative": "mỗi ngày",
+      "score": 0.1498885771556362,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 45,
+      "keywords": [
+        "thành phố biển vào",
+        "thành phố Vị Thanh"
+      ],
+      "representative": "thành phố biển vào",
+      "score": 0.14533447501898739,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 38,
+      "keywords": [
+        "món quà",
+        "bằng cách trao tặng"
+      ],
+      "representative": "món quà",
+      "score": 0.13240007012378105,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 66,
+      "keywords": [
+        "Đổi sang màu khác",
+        "lệch màu"
+      ],
+      "representative": "Đổi sang màu khác",
+      "score": 0.12795338728731998,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 70,
+      "keywords": [
+        "Dám Chạy"
+      ],
+      "representative": "Dám Chạy",
+      "score": 0.12723483530257373,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 31,
+      "keywords": [
+        "biển đẹp nhất Việt",
+        "biển Mỹ Khê"
+      ],
+      "representative": "biển đẹp nhất Việt",
+      "score": 0.12679096036574597,
+      "keyword_count": 2
+    }
+  ],
+  "2025-08": [
+    {
+      "cluster_id": 63,
+      "keywords": [
+        "hiện chính mình"
+      ],
+      "representative": "hiện chính mình",
+      "score": 0.40895790119708897,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 96,
+      "keywords": [
+        "bạn thể hiện"
+      ],
+      "representative": "bạn thể hiện",
+      "score": 0.33522905617200205,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 119,
+      "keywords": [
+        "Thiết kế tối"
+      ],
+      "representative": "Thiết kế tối",
+      "score": 0.3281985834524416,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 110,
+      "keywords": [
+        "đến cự ly dài"
+      ],
+      "representative": "đến cự ly dài",
+      "score": 0.32315702044949957,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 81,
+      "keywords": [
+        "Strava hoặc"
+      ],
+      "representative": "Strava hoặc",
+      "score": 0.3080939840706472,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 76,
+      "keywords": [
+        "với quần short"
+      ],
+      "representative": "với quần short",
+      "score": 0.30015584702068365,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 117,
+      "keywords": [
+        "tin bứt phá trên"
+      ],
+      "representative": "tin bứt phá trên",
+      "score": 0.29042848128416293,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 52,
+      "keywords": [
+        "trường là thời điểm",
+        "trường trường lớp"
+      ],
+      "representative": "trường trường lớp",
+      "score": 0.2894520385209728,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 26,
+      "keywords": [
+        "mốc son chói lọi",
+        "như một mốc son",
+        "ghi dấu tình"
+      ],
+      "representative": "ghi dấu tình",
+      "score": 0.2578989743981245,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 49,
+      "keywords": [
+        "Khoác lên mình chiếc",
+        "Mỗi chiếc"
+      ],
+      "representative": "Mỗi chiếc",
+      "score": 0.2424329984513837,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 89,
+      "keywords": [
+        "sinh viên"
+      ],
+      "representative": "sinh viên",
+      "score": 0.23948110358347668,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 95,
+      "keywords": [
+        "dạo phố cùng"
+      ],
+      "representative": "dạo phố cùng",
+      "score": 0.22449190903521143,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 66,
+      "keywords": [
+        "thời gian",
+        "trong thời gian"
+      ],
+      "representative": "trong thời gian",
+      "score": 0.21092682551100217,
+      "keyword_count": 2
+    },
+    {
+      "cluster_id": 90,
+      "keywords": [
+        "hình ảnh những chiếc"
+      ],
+      "representative": "hình ảnh những chiếc",
+      "score": 0.20537402333273272,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 45,
+      "keywords": [
+        "năm học mới với",
+        "cho một năm học",
+        "lịch học"
+      ],
+      "representative": "lịch học",
+      "score": 0.20175066600544853,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 83,
+      "keywords": [
+        "Đồng Hành Cùng",
+        "hành cùng học sinh",
+        "người bạn đồng hành"
+      ],
+      "representative": "người bạn đồng hành",
+      "score": 0.19365969740996014,
+      "keyword_count": 3
+    },
+    {
+      "cluster_id": 91,
+      "keywords": [
+        "họa tiết tôn vinh"
+      ],
+      "representative": "họa tiết tôn vinh",
+      "score": 0.19296456869281692,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 97,
+      "keywords": [
+        "nhỏ của trẻ"
+      ],
+      "representative": "nhỏ của trẻ",
+      "score": 0.1907746497847868,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 69,
+      "keywords": [
+        "bùn lầy"
+      ],
+      "representative": "bùn lầy",
+      "score": 0.18937719350530333,
+      "keyword_count": 1
+    },
+    {
+      "cluster_id": 62,
+      "keywords": [
+        "bạn trở lại giảng"
+      ],
+      "representative": "bạn trở lại giảng",
+      "score": 0.18898364739658388,
+      "keyword_count": 1
+    }
+  ]
+}
