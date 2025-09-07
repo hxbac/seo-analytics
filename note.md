@@ -1,3 +1,4 @@
-Pipeline
-
-``` get_keywords_v2.py -> chart_top_keywords_v3.py ```
+*** Command ***
+``` python main.py --url="stavi.com.vn" --crawl_articles ```
+``` python main.py --url="stavi.com.vn" --process_keywords ```
+``` python main.py --url="stavi.com.vn" --extract_top_keywords ```
