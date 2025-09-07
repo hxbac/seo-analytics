@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="px-4 pt-4">
+    <h1 class="text-center">Websites</h1>
+
+    <div id="websites"></div>
+
+    <script>
+      const start = async () => {
+        const response = await fetch(
+          "https://hxbac.github.io/seo-analytics/db/websites.json"
+        );
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        console.log(data);
+
+        document.getElementById("websites").innerHTML = data.map(
+          (w) => `
+                <div class="card" style="width: 18rem">
+                    <div class="card-body">
+                        <h5 class="card-title">${w.name}</h5>
+                        <p class="card-text">
+                            url: ${w.url}
+                        </p>
+                        <a href="https://hxbac.github.io/seo-analytics/articles.html?id=${w.id}" class="btn btn-primary">Go</a>
+                    </div>
+                </div>
+            `
+        );
+      };
+
+      start();
+    </script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

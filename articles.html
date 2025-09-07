@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</head>
+
+<body class="px-4 pt-4">
+    <h1 class="text-center">Articles <span id="articles-total"></span></h1>
+
+    <div class="py-4" style="position: sticky; top: 0px; background-color: #fff;">
+        <select id="monthFilter">
+        </select>
+    </div>
+
+    <div id="websites">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Published Date</th>
+                    <th scope="col">Top keywords</th>
+                    <th scope="col">Additional attributes</th>
+                    <th scope="col">Content</th>
+                </tr>
+            </thead>
+            <tbody id="content">
+            </tbody>
+        </table>
+
+        <div class="modal fade" id="myModal" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        This is modal content.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const queryString = window.location.search;
+
+        const urlParams = new URLSearchParams(queryString);
+
+        const websiteId = urlParams.get("id");
+        const content = document.getElementById('content');
+
+        const start = async () => {
+            const response = await fetch(
+                `https://hxbac.github.io/seo-analytics/db/articles_${websiteId}.json`
+            );
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+
+            document.getElementById(
+                "articles-total"
+            ).innerText = `(${data.length})`;
+
+            const articles = data.sort((a, b) => new Date(b.datePublished) - new Date(a.datePublished));
+
+            window.showContent = (index) => {
+                article = articles[index];
+                document.querySelector('.modal-body').innerText = article.content;
+                $('#myModal').modal('show');
+            };
+
+            content.innerHTML = articles.map((a, index) => `
+                <tr id="article-${index}" class="article">
+                    <th scope="row">${a.id}</th>
+                    <td><a href="${a.url}" target="_blank">${a.title}</a></td>
+                    <td>${a.datePublished}</td>
+                    <td>${a.keywords?.map(k => `<div>${k}</div>`)?.join('')}</td>
+                    <td>${a.additional_attributes?.keywords?.map(k => `<div>${k}</div>`)?.join('')}</td>
+                    <td><button class="btn btn-primary" onClick="showContent(${index})">Content</button></td>
+                </tr>
+            `).join('');
+
+            const months = articles.map(article => article.datePublished?.slice(0, 7));
+            const uniqueMonths = [...new Set(months)];
+
+            const select = document.getElementById('monthFilter');
+
+            const clearOption = document.createElement('option');
+            clearOption.value = '';
+            clearOption.text = 'Clear';
+            select.appendChild(clearOption);
+
+            uniqueMonths.forEach(month => {
+                const option = document.createElement('option');
+                option.value = month;
+                option.text = month;
+                select.appendChild(option);
+            });
+
+            select.addEventListener('change', function () {
+                const value = this.value;
+                if (!value) {
+                    content.querySelectorAll('.article.d-none').forEach(i => i.classList.remove('d-none'));
+                } else {
+                    articles.forEach((a, index) => {
+                        if (a.datePublished.startsWith(value)) {
+                            document.getElementById(`article-${index}`).classList.remove('d-none');
+                        } else {
+                            document.getElementById(`article-${index}`).classList.add('d-none');
+                        }
+                    });
+                }
+            });
+        };
+
+        start();
+    </script>
+</body>
+
+</html>
